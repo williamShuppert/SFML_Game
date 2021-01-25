@@ -4,5 +4,5 @@ This was one of the first things I made with SFML and c++. While I never finishe
 
 ## Gameplay
 
-![Farmers Market Finder Demo](https://github.com/williamShuppert/SFML_Game/blob/main/SFML_Game.gif)
+![Gameplay](https://github.com/williamShuppert/SFML_Game/blob/main/SFML_Game.gif)
 
