@@ -1,6 +1,6 @@
 # SFML_Game
 
-This was one of the first things I made with SFML and c++. While I never finished it, it was a lot of fun to make and I learned a lot!
+This was one of my first C++ games I made in high school using SFML for my AP CS class. While I never finished it, it was a lot of fun to make and I learned a lot!
 
 ## Gameplay
 
